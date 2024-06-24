@@ -2,7 +2,9 @@
 
 AdventureWorks Data Visualisation Project using Tableau
 
-PLEASE NOTE: I used Tableau Public to build the dashboard. The three dashboard can be found on the first three pages.
+PLEASE NOTE: I used Tableau Public to build the dashboard. The worksheets used to create the visuals for the dashboard cannot be hidden when using Tableau Public.
+
+The three dashboard can be found on the first three pages.
 For details, please view the Word document "Adventure Works Dashboard Documentation" attached.
 
 The AdventureWorks sample database
